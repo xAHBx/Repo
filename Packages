@@ -1,0 +1,17 @@
+Package: com.zenin.tenyo
+Version: 1.3.4
+Architecture: iphoneos-arm64
+Maintainer: zenin
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debs/com.zenin.tenyo_1.3.4_iphoneos-arm64.deb
+Size: 27752
+MD5sum: 02c90d8ad616d39bf121f8eb92f4afd2
+SHA1: aa3ac224b7dda813179e566929e8840f15a5f3d4
+SHA256: 5db61e0dcb7cab257b93985798ebb22ffbe530b53d44456c287dd27c168d94f9
+Section: Tweaks
+Description: Cheat for Pubg
+Tag: role::developer
+Author: zenin
+Depiction: 
+Name: zenin
