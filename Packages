@@ -16,3 +16,22 @@ Author: CyPwn
 Depiction: 
 Name: Watusi Crack
 
+Package: xyz.cypwn.iCleanerProCrack
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/iCleanerProCrack.deb
+Size: 4816
+MD5sum: f37957a09495ae6ebe0f06ea07108647
+SHA1: 97d55bc83d032040f498b8104c651777b75558b0
+SHA256: 2895e4f4b6d6aa9f48ae12f0df4cc88b021108e9d60944de73d1179c44171cac
+Section: crack
+Description: iCleaner Pro Crack
+Tag: role::developer
+Author: Anna
+Depiction: 
+Name: iCleaner Pro Crack
+
+
