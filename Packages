@@ -15,3 +15,22 @@ Tag: role::developer
 Author: zenin
 Depiction: 
 Name: zenin
+
+Package: xyz.cypwn.watusicrack
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debs/watusicrack.deb
+Size: 27752
+MD5sum: fc5525c936576a7a6bad628a19b8b07c
+SHA1: 5c20e09df132407c0b6df1bdd41bca2668e97d87
+SHA256: d9b49726a015610a331d3a9afdab076872b2d4057b64877773c38c128e552985
+Section: crack
+Description: Watusi Crack
+Tag: role::developer
+Author: CyPwn
+Depiction: 
+Name: Watusi Crack
+
